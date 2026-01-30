@@ -1,0 +1,70 @@
+<!DOCTYPE html>
+<html lang="hi">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>PROJECT 1</title>
+    <h1>MY MULTIMEDIA BLOG sponsored by TAP ACADEMY &trade;</h1>
+    <h2>My favourite songs of all time</h2>
+    <h3>Song 1 🕺🏻</h3>
+    <audio
+      controls
+      src="/songs/assets/WhatsApp Audio 2026-01-13 at 8.36.08 PM.mpeg"
+      controls
+    ></audio>
+    <h3>Song 2 🕺🏻</h3>
+    <audio
+      controls
+      src="/songs/assets/WhatsApp Audio 2026-01-13 at 8.36.08 PM (2).mpeg"
+      controls
+    ></audio>
+    <h3>Song 3 🕺🏻</h3>
+    <audio
+      controls
+      src="/songs/assets/WhatsApp Audio 2026-01-13 at 8.36.09 PM (2).mpeg"
+      controls
+    ></audio>
+    <audio
+      controls
+      src="/songs/assets/WhatsApp Audio 2026-01-13 at 8.36.10 PM (1).mpeg"
+      controls
+    ></audio>
+    <audio
+      controls
+      src="/songs/assets/WhatsApp Audio 2026-01-13 at 8.36.08 PM (2).mpeg"
+      controls
+    ></audio>
+    <h2>TOP 5 Most Watched Indian film <del>trailers</del> on Youtube</h2>
+    <h3>1.<ins>The RajaSaab Trailer</ins> 2.0 (Telugu) | Prabhas | Maruthi</h3>
+    <img
+      height="400"
+      width="350"
+      src="https://i.cdn.newsbytesapp.com/images/l1520260111113555.jpeg"
+    />
+    <video
+      controls
+      src="/songs/assets/assets/WhatsApp Video 2026-01-13 at 10.03.23 PM.mp4"
+      height="400"
+      width="900"
+      controls
+    ></video>
+    <p>
+      1.<ins>Raajasab:part1</ins> The RajaSaab (titled onscreen as Prabhas's The
+      RajaSaab) is a 2026 Indian Telugu-language fantasy horror comedy film[6]
+      written and directed by Maruthi, and produced by People Media Factory and
+      IVY Entertainment.[7] The film stars Prabhas, alongside Sanjay Dutt,
+      Nidhhi Agerwal, Malavika Mohanan (in her Telugu film debut), Riddhi Kumar
+      and Zarina Wahab.[8][9] In the film, a man searching for his missing
+      grandfather finds himself in a mansion inhabited by a sinister presence.
+      The project was officially announced in January 2024, though principal
+      photography began earlier in October 2022.[10] The film's music is
+      composed by Thaman S, with cinematography by Karthik Palani and editing by
+      Kotagiri Venkateswara Rao.[11] The film was theatrically released
+      worldwide on 9 January 2026, coinciding with Sankranthi, receiving
+      negative reviews from critics, who criticized its weak script, lacking
+      substance, and called it an overstretched narrative, without soul and
+      logic.[12][13]
+    </p>
+  </head>
+  <body></body>
+</html>
